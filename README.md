@@ -1,0 +1,2 @@
+# diceegame
+simple js implementation
